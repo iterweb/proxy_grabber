@@ -12,5 +12,3 @@ Proxy Type ```http``` (```https``` ```socks5``` ```socks4```)
 * [python 3.7+](https://www.python.org/)
 * windows ```pip install -r requirements.txt```
 * linux ```pip3 install -r requirements.txt``` 
-## Donate
-If you want, you can [support](https://destream.net/live/iterweb/donate) me!
